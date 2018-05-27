@@ -1,4 +1,0 @@
-﻿  Main.cpp
-c:\users\krystian\documents\visual studio 2017\projects\mazesolver\mazesolver\main.cpp(107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\krystian\documents\visual studio 2017\projects\mazesolver\mazesolver\main.cpp(110): warning C4309: '=': truncation of constant value
-  MazeSolver.vcxproj -> C:\Users\Krystian\Documents\Visual Studio 2017\Projects\MazeSolver\x64\Debug\MazeSolver.exe

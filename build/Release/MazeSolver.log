@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.cpp
+c:\users\krystian\desktop\-\projects\mazesolver\src\main.cpp(106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\mazesolver\src\main.cpp(109): warning C4309: '=': truncation of constant value
+  Generating code
+  All 736 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MazeSolver.vcxproj -> C:\Users\Krystian\Desktop\-\Projects\MazeSolver\bin\Release\MazeSolver.exe
